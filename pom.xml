@@ -41,7 +41,7 @@
 				<version>2.8.0</version>
 				<configuration>
 					<to>
-						<image>registry.hub.docker.com/YOUR_USER_NAME/IMAGE_NAME</image>
+					    <image>registry.hub.docker.com/YOUR_USER_NAME/IMAGE_NAME</image>
 					</to>
 				</configuration>
 			</plugin>
